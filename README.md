@@ -23,5 +23,3 @@
    - Scene view (for generated objects)  
    - Project window (for generated scripts/AIGenerate)  
 
-
-> 💡 First-time setup requires internet connection for API verification
