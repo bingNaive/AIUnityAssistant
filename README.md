@@ -8,7 +8,7 @@
 
 ### Prerequisites
 1. **API Configuration**  
-   - Go to `Tools > AIAssistant Config` to generate configuration files  
+   - Go to `Tools > AIAssistant` to generate configuration files  
    - Locate `DeepSeekConfig.asset` in your `Resources` directory  
    - Enter your API key in the designated field  
 
